@@ -94,7 +94,7 @@ HLT;
 ```
 
 ## Output  
-![](./IMG-001)
+![](https://github.com/Kishore00007/EXPERIMENT--01-ALP-FOR-8086/blob/main/IMG-001.png)
  
 ## Subtraction   of 8 bit numbers  ALP 
 ```
