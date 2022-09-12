@@ -112,7 +112,7 @@ MOV [SI+1],CL;
 HLT;
 ``` 
 ## Output  
-![](./IMG-002)
+![](https://github.com/Kishore00007/EXPERIMENT--01-ALP-FOR-8086/blob/main/IMG-002.png)
 ## Multiplication alp 
 ```
 org 100h  
@@ -126,7 +126,7 @@ MOV [SI+1],AH;
 HLT;
 ```
  ## Output  
- ![](./IMG-003)
+ ![](https://github.com/Kishore00007/EXPERIMENT--01-ALP-FOR-8086/blob/main/IMG-003.png)
 
 
 ## Division alp 
@@ -142,7 +142,7 @@ MOV [SI+1],AH;
 HLT;
 ```
 ## Output  
-![](./IMG-004)
+![](https://github.com/Kishore00007/EXPERIMENT--01-ALP-FOR-8086/blob/main/IMG-004.png)
 
 ## Result :
  Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
